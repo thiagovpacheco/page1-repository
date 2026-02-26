@@ -1,0 +1,9 @@
+{
+    "name": "pagina-1-portfolio",
+    "version": "1.0.0",
+    "scripts": {
+        "dev": "cd nura-health-web && npm run dev",
+        "install": "cd nura-health-web && npm install",
+        "build": "cd nura-health-web && npm run build"
+    }
+}
