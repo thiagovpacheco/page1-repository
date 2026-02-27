@@ -1,0 +1,4 @@
+{
+    "buildCommand": "cd nura-health-web && npm install && npm run build",
+    "outputDirectory": "nura-health-web/dist"
+}
